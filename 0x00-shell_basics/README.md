@@ -1,1 +1,1 @@
-script that displays current directory contents including user and group IDs, and hidden files
+Script that creates a directoryin the /tmp/ directory
