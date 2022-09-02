@@ -1,1 +1,1 @@
-Script that creates a directoryin the /tmp/ directory
+Script that deletes the file betty
