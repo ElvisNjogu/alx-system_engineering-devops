@@ -1,3 +1,1 @@
-Script that sets the mode of the file hello the same as ollehs mode > README.md 
-echo "Script that sets the mode of the file hello as the same as ollehs mode > README.md
-echo Script that sets the mode of the file hello as the same as ollehs mode
+Script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
